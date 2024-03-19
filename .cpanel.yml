@@ -1,0 +1,4 @@
+deployments:
+  - destination: /home/nuazsamy/public_html
+    repo: https://github.com/nuazsa/simple-mvc/
+    branch: master
